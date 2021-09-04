@@ -1,0 +1,460 @@
+[
+{
+    "name":"BSC Mainnet  XBC Index",
+    "address":"0x5a9bf29ccC64e8146580D0A9Db00942fE239567D"
+},
+{
+    "name":"BSC Mainnet  XLC Index",
+    "address":"0x2cd20A66f7e50379DfEdb9Ff38f6168B3EFB94ed"
+},
+{
+    "name":"BSC Mainnet AAPL / USD",
+    "address":"0xb7Ed5bE7977d61E83534230f3256C021e0fae0B6"
+},
+{
+    "name":"BSC Mainnet AAVE / USD",
+    "address":"0xA8357BF572460fC40f4B0aCacbB2a6A61c89f475"
+},
+{
+    "name":"BSC Mainnet ADA / BNB",
+    "address":"0x2d5Fc41d1365fFe13d03d91E82e04Ca878D69f4B"
+},
+{
+    "name":"BSC Mainnet ADA / USD",
+    "address":"0xa767f745331D267c7751297D982b050c93985627"
+},
+{
+    "name":"BSC Mainnet ALPACA / USD",
+    "address":"0xe0073b60833249ffd1bb2af809112c2fbf221DF6"
+},
+{
+    "name":"BSC Mainnet ALPHA / BNB",
+    "address":"0x7bC032A7C19B1BdCb981D892854d090cfB0f238E"
+},
+{
+    "name":"BSC Mainnet AMZN / USD",
+    "address":"0x51d08ca89d3e8c12535BA8AEd33cDf2557ab5b2a"
+},
+{
+    "name":"BSC Mainnet ARKK / USD",
+    "address":"0x234c7a1da64Bdf44E1B8A25C94af53ff2A199dE0"
+},
+{
+    "name":"BSC Mainnet ATOM / USD",
+    "address":"0xb056B7C804297279A9a673289264c17E6Dc6055d"
+},
+{
+    "name":"BSC Mainnet AUTO / USD",
+    "address":"0x88E71E6520E5aC75f5338F5F0c9DeD9d4f692cDA"
+},
+{
+    "name":"BSC Mainnet BAC / USD",
+    "address":"0x368b7ab0a0Ff94E23fF5e4A7F04327dF7079E174"
+},
+{
+    "name":"BSC Mainnet BAND / BNB",
+    "address":"0x3334bF7ec892Ca03D1378B51769b7782EAF318C4"
+},
+{
+    "name":"BSC Mainnet BCH / BNB",
+    "address":"0x2a548935a323Bb7329a5E3F1667B979f16Bc890b"
+},
+{
+    "name":"BSC Mainnet BCH / USD",
+    "address":"0x43d80f616DAf0b0B42a928EeD32147dC59027D41"
+},
+{
+    "name":"BSC Mainnet BETH / USD",
+    "address":"0x2A3796273d47c4eD363b361D3AEFb7F7E2A13782"
+},
+{
+    "name":"BSC Mainnet BIDU / USD",
+    "address":"0xb9344e4Ffa6d5885B2C5830adc27ddF3FdBF883c"
+},
+{
+    "name":"BSC Mainnet BIFI / BNB",
+    "address":"0xE6A9106Fca5d6552f3f1a3B3B33b62eb2F6F5347"
+},
+{
+    "name":"BSC Mainnet BIFI / USD",
+    "address":"0xaB827b69daCd586A37E80A7d552a4395d576e645"
+},
+{
+    "name":"BSC Mainnet BNB / USD",
+    "address":"0x0567F2323251f0Aab15c8dFb1967E4e8A7D42aeE"
+},
+{
+    "name":"BSC Mainnet BORING / BNB",
+    "address":"0xeAC5322C6b841FE1466D42D9Cfa1cE75c51d6ae3"
+},
+{
+    "name":"BSC Mainnet BRK.B / USD",
+    "address":"0x5289A08b6d5D2f8fAd4cC169c65177f68C0f0A99",
+    "skip":true
+},
+{
+    "name":"BSC Mainnet BTC / ARS",
+    "address":"0x26C31ac71010aF62E6B486D1132E266D6298857D"
+},
+{
+    "name":"BSC Mainnet BTC / BNB",
+    "address":"0x116EeB23384451C78ed366D4f67D5AD44eE771A0"
+},
+{
+    "name":"BSC Mainnet BTC / ETH",
+    "address":"0xf1769eB4D1943AF02ab1096D7893759F6177D6B8",
+    "skip" : true
+},
+{
+    "name":"BSC Mainnet BTC / USD",
+    "address":"0x264990fbd0A4796A3E3d8E37C4d5F87a3aCa5Ebf"
+},
+{
+    "name":"BSC Mainnet BUSD / BNB",
+    "address":"0x87Ea38c9F24264Ec1Fff41B04ec94a97Caf99941"
+},
+{
+    "name":"BSC Mainnet BUSD / USD",
+    "address":"0xcBb98864Ef56E9042e7d2efef76141f15731B82f"
+},
+{
+    "name":"BSC Mainnet BZRX / USD",
+    "address":"0xFc362828930519f236ad0c8f126B7996562a695A"
+},
+{
+    "name":"BSC Mainnet CAKE / BNB",
+    "address":"0xcB23da9EA243f53194CBc2380A6d4d9bC046161f"
+},
+{
+    "name":"BSC Mainnet CAKE / USD",
+    "address":"0xB6064eD41d4f67e353768aA239cA86f4F73665a1"
+},
+{
+    "name":"BSC Mainnet CFX / USD",
+    "address":"0xe3cA2f3Bad1D8327820f648C759f17162b5383ae"
+},
+{
+    "name":"BSC Mainnet CHF / USD",
+    "address":"0x964261740356cB4aaD0C3D2003Ce808A4176a46d",
+    "skip" : true
+},
+{
+    "name":"BSC Mainnet CHR / USD",
+    "address":"0x1f771B2b1F3c3Db6C7A1d5F38961a49CEcD116dA"
+},
+{
+    "name":"BSC Mainnet COIN / USD",
+    "address":"0x2d1AB79D059e21aE519d88F978cAF39d74E31AEB"
+},
+{
+    "name":"BSC Mainnet COMP / USD",
+    "address":"0x0Db8945f9aEf5651fa5bd52314C5aAe78DfDe540"
+},
+{
+    "name":"BSC Mainnet CREAM / BNB",
+    "address":"0x6f55DFAf098a813d87BB4e6392275b502360Bb9D"
+},
+{
+    "name":"BSC Mainnet DAI / BNB",
+    "address":"0x8EC213E7191488C7873cEC6daC8e97cdbAdb7B35"
+},
+{
+    "name":"BSC Mainnet DAI / USD",
+    "address":"0x132d3C0B1D2cEa0BC552588063bdBb210FDeecfA"
+},
+{
+    "name":"BSC Mainnet DF / USD",
+    "address":"0x1b816F5E122eFa230300126F97C018716c4e47F5"
+},
+{
+    "name":"BSC Mainnet DODO / BNB",
+    "address":"0x120ae15CB86060527BFD431Abd3FF51890D2032C"
+},
+{
+    "name":"BSC Mainnet DOGE / USD",
+    "address":"0x3AB0A0d137D4F946fBB19eecc6e92E64660231C8"
+},
+{
+    "name":"BSC Mainnet DOT / BNB",
+    "address":"0xBA8683E9c3B1455bE6e18E7768e8cAD95Eb5eD49"
+},
+{
+    "name":"BSC Mainnet DOT / USD",
+    "address":"0xC333eb0086309a16aa7c8308DfD32c8BBA0a2592"
+},
+{
+    "name":"BSC Mainnet DPI / USD",
+    "address":"0x7ee7E7847FFC93F8Cf67BCCc0002afF9C52DE524"
+},
+{
+    "name":"BSC Mainnet EOS / BNB",
+    "address":"0xed93F3764334788f2f6628b30e505fe1fc5d1D7b"
+},
+{
+    "name":"BSC Mainnet EOS / USD",
+    "address":"0xd5508c8Ffdb8F15cE336e629fD4ca9AdB48f50F0"
+},
+{
+    "name":"BSC Mainnet ETH / BNB",
+    "address":"0x63D407F32Aa72E63C7209ce1c2F5dA40b3AaE726"
+},
+{
+    "name":"BSC Mainnet ETH / USD",
+    "address":"0x9ef1B8c0E4F7dc8bF5719Ea496883DC6401d5b2e"
+},
+{
+    "name":"BSC Mainnet EUR / USD",
+    "address":"0x0bf79F617988C472DcA68ff41eFe1338955b9A80"
+},
+{
+    "name":"BSC Mainnet FB / USD",
+    "address":"0xfc76E9445952A3C31369dFd26edfdfb9713DF5Bb"
+},
+{
+    "name":"BSC Mainnet FIL / USD",
+    "address":"0xE5dbFD9003bFf9dF5feB2f4F445Ca00fb121fb83"
+},
+{
+    "name":"BSC Mainnet GME / USD",
+    "address":"0x66cD2975d02f5F5cdEF2E05cBca12549B1a5022D"
+},
+{
+    "name":"BSC Mainnet GOOGL / USD",
+    "address":"0xeDA73F8acb669274B15A977Cb0cdA57a84F18c2a"
+},
+{
+    "name":"BSC Mainnet ICP / USD",
+    "address":"0x84210d9013A30C6ab169e28840A6CC54B60fa042"
+},
+{
+    "name":"BSC Mainnet JPM / USD",
+    "address":"0x8f26ba94180371baA2D2C143f96b6886DCACA250"
+},
+{
+    "name":"BSC Mainnet JPY / USD",
+    "address":"0x22Db8397a6E77E41471dE256a7803829fDC8bC57"
+},
+{
+    "name":"BSC Mainnet LINA / USD",
+    "address":"0x38393201952f2764E04B290af9df427217D56B41"
+},
+{
+    "name":"BSC Mainnet LINK / BNB",
+    "address":"0xB38722F6A608646a538E882Ee9972D15c86Fc597"
+},
+{
+    "name":"BSC Mainnet LINK / USD",
+    "address":"0xca236E327F629f9Fc2c30A4E95775EbF0B89fac8"
+},
+{
+    "name":"BSC Mainnet LIT / USD",
+    "address":"0x83766bA8d964fEAeD3819b145a69c947Df9Cb035"
+},
+{
+    "name":"BSC Mainnet LTC / BNB",
+    "address":"0x4e5a43A79f53c0a8e83489648Ea7e429278f8b2D"
+},
+{
+    "name":"BSC Mainnet LTC / USD",
+    "address":"0x74E72F37A8c415c8f1a98Ed42E78Ff997435791D"
+},
+{
+    "name":"BSC Mainnet MASK / USD",
+    "address":"0x4978c0abE6899178c1A74838Ee0062280888E2Cf"
+},
+{
+    "name":"BSC Mainnet MATIC / USD",
+    "address":"0x7CA57b0cA6367191c94C8914d7Df09A57655905f"
+},
+{
+    "name":"BSC Mainnet MRNA / USD",
+    "address":"0x6101F4DFBb24Cac3D64e28A815255B428b93639f"
+},
+{
+    "name":"BSC Mainnet MS / USD",
+    "address":"0x6b25F7f189c3f26d3caC43b754578b67Fc8d952A"
+},
+{
+    "name":"BSC Mainnet MSFT / USD",
+    "address":"0x5D209cE1fBABeAA8E6f9De4514A74FFB4b34560F",
+    "skip" : true
+},
+{
+    "name":"BSC Mainnet NFLX / USD",
+    "address":"0x1fE6c9Bd9B29e5810c2819f37dDa8559739ebeC9"
+},
+{
+    "name":"BSC Mainnet NULS / USD",
+    "address":"0xaCFBE73231d312AC6954496b3f786E892bF0f7e5"
+},
+{
+    "name":"BSC Mainnet NVDA / USD",
+    "address":"0xea5c2Cbb5cD57daC24E26180b19a929F3E9699B8"
+},
+{
+    "name":"BSC Mainnet ONT / USD",
+    "address":"0x887f177CBED2cf555a64e7bF125E1825EB69dB82"
+},
+{
+    "name":"BSC Mainnet PACB / USD",
+    "address":"0xe9bEC24f14AB49b0a81a482a4224e7505d2d29e9"
+},
+{
+    "name":"BSC Mainnet PAXG / USD",
+    "address":"0x7F8caD4690A38aC28BDA3D132eF83DB1C17557Df"
+},
+{
+    "name":"BSC Mainnet PFE / USD",
+    "address":"0xe96fFdE2ba50E0e869520475ee1bC73cA2dEE326"
+},
+{
+    "name":"BSC Mainnet QQQ / USD",
+    "address":"0x9A41B56b2c24683E2f23BdE15c14BC7c4a58c3c4"
+},
+{
+    "name":"BSC Mainnet RAMP / USD",
+    "address":"0xD1225da5FC21d17CaE526ee4b6464787c6A71b4C"
+},
+{
+    "name":"BSC Mainnet REEF / USD",
+    "address":"0x46f13472A4d4FeC9E07E8A00eE52f4Fa77810736"
+},
+{
+    "name":"BSC Mainnet SOL / USD",
+    "address":"0x0E8a53DD9c13589df6382F13dA6B3Ec8F919B323"
+},
+{
+    "name":"BSC Mainnet SPCE / USD",
+    "address":"0xC861a351b2b50985b9061a5b68EBF9018e7FfB7b"
+},
+{
+    "name":"BSC Mainnet SPY / USD",
+    "address":"0xb24D1DeE5F9a3f761D286B56d2bC44CE1D02DF7e"
+},
+{
+    "name":"BSC Mainnet SXP / USD",
+    "address":"0xE188A9875af525d25334d75F3327863B2b8cd0F1"
+},
+{
+    "name":"BSC Mainnet TRX / USD",
+    "address":"0xF4C5e535756D11994fCBB12Ba8adD0192D9b88be"
+},
+{
+    "name":"BSC Mainnet TSLA / USD",
+    "address":"0xEEA2ae9c074E87596A85ABE698B2Afebc9B57893"
+},
+{
+    "name":"BSC Mainnet TSM / USD",
+    "address":"0x685fC5acB74CE3d5DF03543c9813C73DFCe50de8"
+},
+{
+    "name":"BSC Mainnet TWT / BNB",
+    "address":"0x7E728dFA6bCa9023d9aBeE759fDF56BEAb8aC7aD"
+},
+{
+    "name":"BSC Mainnet Total Marketcap USD",
+    "address":"0xA7dd120a00aCf4161FdA187b864b73bdc8283D77"
+},
+{
+    "name":"BSC Mainnet UNH / USD",
+    "address":"0xC18c5A32c84CbbAc7D0F06Dd370198DA711c73C9",
+    "skip" : true
+},
+{
+    "name":"BSC Mainnet UNI / BNB",
+    "address":"0x25298F020c3CA1392da76Eb7Ac844813b218ccf7"
+},
+{
+    "name":"BSC Mainnet UNI / USD",
+    "address":"0xb57f259E7C24e56a1dA00F66b55A5640d9f9E7e4"
+},
+{
+    "name":"BSC Mainnet USDC / BNB",
+    "address":"0x45f86CA2A8BC9EBD757225B19a1A0D7051bE46Db"
+},
+{
+    "name":"BSC Mainnet USDC / USD",
+    "address":"0x51597f405303C4377E36123cBc172b13269EA163"
+},
+{
+    "name":"BSC Mainnet USDN / USD",
+    "address":"0x7C0BC703Dc56645203CFeBE1928E34B8e885ae37"
+},
+{
+    "name":"BSC Mainnet USDT / BNB",
+    "address":"0xD5c40f5144848Bd4EF08a9605d860e727b991513"
+},
+{
+    "name":"BSC Mainnet USDT / USD",
+    "address":"0xB97Ad0E74fa7d920791E90258A6E2085088b4320"
+},
+{
+    "name":"BSC Mainnet UST / USD",
+    "address":"0xcbf8518F8727B8582B22837403cDabc53463D462",
+    "skip" : true
+},
+{
+    "name":"BSC Mainnet VAI / USD",
+    "address":"0x058316f8Bb13aCD442ee7A216C7b60CFB4Ea1B53"
+},
+{
+    "name":"BSC Mainnet WING / USD",
+    "address":"0xf7E7c0ffCB11dAC6eCA1434C67faB9aE000e10a7"
+},
+{
+    "name":"BSC Mainnet WOO / USD",
+    "address":"0x02Bfe714e78E2Ad1bb1C2beE93eC8dc5423B66d4"
+},
+{
+    "name":"BSC Mainnet WTI / USD",
+    "address":"0xb1BED6C1fC1adE2A975F54F24851c7F410e27718"
+},
+{
+    "name":"BSC Mainnet XAG / USD",
+    "address":"0x817326922c909b16944817c207562B25C4dF16aD"
+},
+{
+    "name":"BSC Mainnet XAU / USD",
+    "address":"0x86896fEB19D8A607c3b11f2aF50A0f239Bd71CD0"
+},
+{
+    "name":"BSC Mainnet XRP / BNB",
+    "address":"0x798A65D349B2B5E6645695912880b54dfFd79074"
+},
+{
+    "name":"BSC Mainnet XRP / USD",
+    "address":"0x93A67D414896A280bF8FFB3b389fE3686E014fda"
+},
+{
+    "name":"BSC Mainnet XTZ / BNB",
+    "address":"0x8264d6983B219be65C4D62f1c82B3A2999944cF2"
+},
+{
+    "name":"BSC Mainnet XTZ / USD",
+    "address":"0x9A18137ADCF7b05f033ad26968Ed5a9cf0Bf8E6b"
+},
+{
+    "name":"BSC Mainnet XVS / BNB",
+    "address":"0xf369A13E7f2449E58DdE8302F008eE9131f8d859"
+},
+{
+    "name":"BSC Mainnet XVS / USD",
+    "address":"0xBF63F430A79D4036A5900C19818aFf1fa710f206"
+},
+{
+    "name":"BSC Mainnet YFI / BNB",
+    "address":"0xF841761481DF19831cCC851A54D8350aE6022583"
+},
+{
+    "name":"BSC Mainnet YFI / USD",
+    "address":"0xD7eAa5Bf3013A96e3d515c055Dbd98DbdC8c620D"
+},
+{
+    "name":"BSC Mainnet YFII / USD",
+    "address":"0xC94580FAaF145B2FD0ab5215031833c98D3B77E4"
+},
+{
+    "name":"BSC Mainnet ZIL / USD",
+    "address":"0x3e3aA4FC329529C8Ab921c810850626021dbA7e6"
+}
+]

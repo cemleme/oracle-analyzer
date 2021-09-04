@@ -1,0 +1,775 @@
+Running analysis for last 5 rounds...
+Data shows time passed between each round
+-----------------------------------
+BSC Mainnet  XBC Index:
+    MAXIMUM: 6 minutes, 33 seconds
+    MINIMUM: 3 minutes, 
+    AVERAGE: 2 minutes, 48 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 14 minutes, 3 seconds
+-----------------------------------
+
+BSC Mainnet  XLC Index:
+    MAXIMUM: 9 minutes, 
+    MINIMUM: 5 minutes, 
+    AVERAGE: 4 minutes, 6 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 20 minutes, 30 seconds
+-----------------------------------
+
+BSC Mainnet AAPL / USD:
+    MAXIMUM: 1 day, 25 seconds
+    MINIMUM: 1 hour, 52 minutes, 20 seconds
+    AVERAGE: 5 hours, 49 minutes, 50 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 day, 5 hours, 9 minutes, 10 seconds
+-----------------------------------
+
+BSC Mainnet AAVE / USD:
+    MAXIMUM: 10 minutes, 18 seconds
+    MINIMUM: 2 minutes, 30 seconds
+    AVERAGE: 3 minutes, 45 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 18 minutes, 48 seconds
+-----------------------------------
+
+BSC Mainnet ADA / BNB:
+    MAXIMUM: 3 hours, 18 seconds
+    MINIMUM: 56 minutes, 6 seconds
+    AVERAGE: 1 hour, 8 minutes, 25 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 5 hours, 42 minutes, 6 seconds
+-----------------------------------
+
+BSC Mainnet ADA / USD:
+    MAXIMUM: 2 hours, 21 minutes, 6 seconds
+    MINIMUM: 15 minutes, 
+    AVERAGE: 40 minutes, 7 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 hours, 20 minutes, 39 seconds
+-----------------------------------
+
+BSC Mainnet ALPACA / USD:
+    MAXIMUM: 1 hour, 15 minutes, 9 seconds
+    MINIMUM: 6 minutes, 30 seconds
+    AVERAGE: 27 minutes, 1 second
+    TOTAL TIME PASSED FOR 5 ROUNDS: 2 hours, 15 minutes, 9 seconds
+-----------------------------------
+
+BSC Mainnet ALPHA / BNB:
+    MAXIMUM: 15 minutes, 
+    MINIMUM: 13 minutes, 
+    AVERAGE: 8 minutes, 15 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 41 minutes, 18 seconds
+-----------------------------------
+
+BSC Mainnet AMZN / USD:
+    MAXIMUM: 18 hours, 24 minutes, 36 seconds
+    MINIMUM: 25 minutes, 54 seconds
+    AVERAGE: 4 hours, 57 minutes, 14 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 day, 46 minutes, 13 seconds
+-----------------------------------
+
+BSC Mainnet ARKK / USD:
+    MAXIMUM: 1 day, 28 seconds
+    MINIMUM: 27 minutes, 
+    AVERAGE: 5 hours, 42 minutes, 9 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 day, 4 hours, 30 minutes, 45 seconds
+-----------------------------------
+
+BSC Mainnet ATOM / USD:
+    MAXIMUM: 1 hour, 15 minutes, 21 seconds
+    MINIMUM: 48 minutes, 21 seconds
+    AVERAGE: 36 minutes, 30 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 hours, 2 minutes, 33 seconds
+-----------------------------------
+
+BSC Mainnet AUTO / USD:
+    MAXIMUM: 34 minutes, 18 seconds
+    MINIMUM: 12 minutes, 30 seconds
+    AVERAGE: 15 minutes, 52 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 hour, 19 minutes, 21 seconds
+-----------------------------------
+
+BSC Mainnet BAC / USD:
+    MAXIMUM: 18 hours, 27 minutes, 49 seconds
+    MINIMUM: 11 minutes, 33 seconds
+    AVERAGE: 4 hours, 8 minutes, 41 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 20 hours, 43 minutes, 27 seconds
+-----------------------------------
+
+BSC Mainnet BAND / BNB:
+    MAXIMUM: 48 minutes, 57 seconds
+    MINIMUM: 13 minutes, 3 seconds
+    AVERAGE: 17 minutes, 30 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 hour, 27 minutes, 33 seconds
+-----------------------------------
+
+BSC Mainnet BCH / BNB:
+    MAXIMUM: 2 hours, 36 minutes, 42 seconds
+    MINIMUM: 1 hour, 3 minutes, 
+    AVERAGE: 1 hour, 5 minutes, 37 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 5 hours, 28 minutes, 6 seconds
+-----------------------------------
+
+BSC Mainnet BCH / USD:
+    MAXIMUM: 2 hours, 7 minutes, 9 seconds
+    MINIMUM: 23 minutes, 30 seconds
+    AVERAGE: 52 minutes, 23 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 4 hours, 21 minutes, 57 seconds
+-----------------------------------
+
+BSC Mainnet BETH / USD:
+    MAXIMUM: 3 minutes, 27 seconds
+    MINIMUM: 1 minute, 
+    AVERAGE: 1 minute, 12 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 6 minutes, 
+-----------------------------------
+
+BSC Mainnet BIDU / USD:
+    MAXIMUM: 52 minutes, 5 seconds
+    MINIMUM: 12 minutes, 2 seconds
+    AVERAGE: 19 minutes, 34 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 hour, 37 minutes, 53 seconds
+-----------------------------------
+
+BSC Mainnet BIFI / BNB:
+    MAXIMUM: 20 minutes, 
+    MINIMUM: 3 minutes, 
+    AVERAGE: 6 minutes, 30 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 32 minutes, 30 seconds
+-----------------------------------
+
+BSC Mainnet BIFI / USD:
+    MAXIMUM: 36 minutes, 33 seconds
+    MINIMUM: 4 minutes, 33 seconds
+    AVERAGE: 12 minutes, 43 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 hour, 3 minutes, 36 seconds
+-----------------------------------
+
+BSC Mainnet BNB / USD:
+    MAXIMUM: 1 minute, 33 seconds
+    MINIMUM: 1 minute, 30 seconds
+    AVERAGE: 54 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 4 minutes, 33 seconds
+-----------------------------------
+
+BSC Mainnet BORING / BNB:
+    MAXIMUM: 12 minutes, 
+    MINIMUM: 3 minutes, 33 seconds
+    AVERAGE: 5 minutes, 18 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 26 minutes, 33 seconds
+-----------------------------------
+
+BSC Mainnet BTC / ARS:
+    MAXIMUM: 23 hours, 11 minutes, 56 seconds
+    MINIMUM: 4 minutes, 4 seconds
+    AVERAGE: 4 hours, 51 minutes, 42 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 day, 18 minutes, 30 seconds
+-----------------------------------
+
+BSC Mainnet BTC / BNB:
+    MAXIMUM: 2 hours, 49 minutes, 39 seconds
+    MINIMUM: 48 minutes, 33 seconds
+    AVERAGE: 1 hour, 9 minutes, 12 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 5 hours, 46 minutes, 3 seconds
+-----------------------------------
+
+BSC Mainnet BTC / USD:
+    MAXIMUM: 7 minutes, 30 seconds
+    MINIMUM: 1 minute, 
+    AVERAGE: 2 minutes, 24 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 12 minutes, 
+-----------------------------------
+
+BSC Mainnet BUSD / BNB:
+    MAXIMUM: 3 hours, 52 minutes, 54 seconds
+    MINIMUM: 27 minutes, 48 seconds
+    AVERAGE: 1 hour, 8 minutes, 12 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 5 hours, 41 minutes, 3 seconds
+-----------------------------------
+
+BSC Mainnet BUSD / USD:
+    MAXIMUM: 1 day, 31 seconds
+    MINIMUM: 1 day, 7 seconds
+    AVERAGE: 14 hours, 24 minutes, 12 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 days, 1 minute, 4 seconds
+-----------------------------------
+
+BSC Mainnet BZRX / USD:
+    MAXIMUM: 19 minutes, 30 seconds
+    MINIMUM: 1 minute, 27 seconds
+    AVERAGE: 7 minutes, 48 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 39 minutes, 
+-----------------------------------
+
+BSC Mainnet CAKE / BNB:
+    MAXIMUM: 3 hours, 27 minutes, 48 seconds
+    MINIMUM: 52 minutes, 33 seconds
+    AVERAGE: 1 hour, 4 minutes, 34 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 5 hours, 22 minutes, 54 seconds
+-----------------------------------
+
+BSC Mainnet CAKE / USD:
+    MAXIMUM: 10 minutes, 15 seconds
+    MINIMUM: 6 minutes, 57 seconds
+    AVERAGE: 5 minutes, 27 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 27 minutes, 18 seconds
+-----------------------------------
+
+BSC Mainnet CFX / USD:
+    MAXIMUM: 1 hour, 12 minutes, 9 seconds
+    MINIMUM: 12 minutes, 
+    AVERAGE: 20 minutes, 43 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 hour, 43 minutes, 39 seconds
+-----------------------------------
+
+BSC Mainnet CHR / USD:
+    MAXIMUM: 1 hour, 43 minutes, 51 seconds
+    MINIMUM: 4 minutes, 30 seconds
+    AVERAGE: 25 minutes, 52 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 2 hours, 9 minutes, 21 seconds
+-----------------------------------
+
+BSC Mainnet COIN / USD:
+    MAXIMUM: 3 hours, 5 minutes, 36 seconds
+    MINIMUM: 20 minutes, 1 second
+    AVERAGE: 56 minutes, 5 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 4 hours, 40 minutes, 27 seconds
+-----------------------------------
+
+BSC Mainnet COMP / USD:
+    MAXIMUM: 42 minutes, 18 seconds
+    MINIMUM: 32 minutes, 21 seconds
+    AVERAGE: 22 minutes, 12 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 hour, 51 minutes, 
+-----------------------------------
+
+BSC Mainnet CREAM / BNB:
+    MAXIMUM: 4 hours, 34 minutes, 18 seconds
+    MINIMUM: 9 minutes, 30 seconds
+    AVERAGE: 59 minutes, 4 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 4 hours, 55 minutes, 21 seconds
+-----------------------------------
+
+BSC Mainnet DAI / BNB:
+    MAXIMUM: 3 hours, 55 minutes, 51 seconds
+    MINIMUM: 45 minutes, 3 seconds
+    AVERAGE: 1 hour, 6 minutes, 30 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 5 hours, 32 minutes, 30 seconds
+-----------------------------------
+
+BSC Mainnet DAI / USD:
+    MAXIMUM: 1 day, 18 seconds
+    MINIMUM: 16 hours, 43 minutes, 1 second
+    AVERAGE: 12 hours, 56 minutes, 43 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 2 days, 16 hours, 43 minutes, 37 seconds
+-----------------------------------
+
+BSC Mainnet DF / USD:
+    MAXIMUM: 1 hour, 38 minutes, 6 seconds
+    MINIMUM: 3 minutes, 
+    AVERAGE: 26 minutes, 27 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 2 hours, 12 minutes, 18 seconds
+-----------------------------------
+
+BSC Mainnet DODO / BNB:
+    MAXIMUM: 43 minutes, 3 seconds
+    MINIMUM: 3 minutes, 
+    AVERAGE: 11 minutes, 
+    TOTAL TIME PASSED FOR 5 ROUNDS: 55 minutes, 3 seconds
+-----------------------------------
+
+BSC Mainnet DOGE / USD:
+    MAXIMUM: 1 minute, 
+    MINIMUM: 1 minute, 
+    AVERAGE: 36 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 minutes, 
+-----------------------------------
+
+BSC Mainnet DOT / BNB:
+    MAXIMUM: 1 hour, 34 minutes, 33 seconds
+    MINIMUM: 12 minutes, 3 seconds
+    AVERAGE: 33 minutes, 1 second
+    TOTAL TIME PASSED FOR 5 ROUNDS: 2 hours, 45 minutes, 6 seconds
+-----------------------------------
+
+BSC Mainnet DOT / USD:
+    MAXIMUM: 10 minutes, 9 seconds
+    MINIMUM: 3 minutes, 30 seconds
+    AVERAGE: 4 minutes, 9 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 20 minutes, 48 seconds
+-----------------------------------
+
+BSC Mainnet DPI / USD:
+    MAXIMUM: 2 hours, 51 seconds
+    MINIMUM: 1 hour, 34 minutes, 45 seconds
+    AVERAGE: 1 hour, 6 minutes, 40 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 5 hours, 33 minutes, 24 seconds
+-----------------------------------
+
+BSC Mainnet EOS / BNB:
+    MAXIMUM: 1 hour, 53 minutes, 36 seconds
+    MINIMUM: 23 minutes, 18 seconds
+    AVERAGE: 41 minutes, 35 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 hours, 27 minutes, 57 seconds
+-----------------------------------
+
+BSC Mainnet EOS / USD:
+    MAXIMUM: 1 hour, 25 minutes, 9 seconds
+    MINIMUM: 46 minutes, 6 seconds
+    AVERAGE: 38 minutes, 19 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 hours, 11 minutes, 36 seconds
+-----------------------------------
+
+BSC Mainnet ETH / BNB:
+    MAXIMUM: 3 hours, 13 minutes, 
+    MINIMUM: 21 minutes, 
+    AVERAGE: 1 hour, 7 minutes, 41 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 5 hours, 38 minutes, 27 seconds
+-----------------------------------
+
+BSC Mainnet ETH / USD:
+    MAXIMUM: 7 minutes, 
+    MINIMUM: 4 minutes, 30 seconds
+    AVERAGE: 3 minutes, 30 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 17 minutes, 30 seconds
+-----------------------------------
+
+BSC Mainnet EUR / USD:
+    MAXIMUM: 10 minutes, 33 seconds
+    MINIMUM: 10 minutes, 15 seconds
+    AVERAGE: 6 minutes, 15 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 31 minutes, 18 seconds
+-----------------------------------
+
+BSC Mainnet FB / USD:
+    MAXIMUM: 1 hour, 59 seconds
+    MINIMUM: 5 minutes, 32 seconds
+    AVERAGE: 16 minutes, 54 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 hour, 24 minutes, 32 seconds
+-----------------------------------
+
+BSC Mainnet FIL / USD:
+    MAXIMUM: 40 minutes, 33 seconds
+    MINIMUM: 3 minutes, 
+    AVERAGE: 10 minutes, 48 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 54 minutes, 3 seconds
+-----------------------------------
+
+BSC Mainnet GME / USD:
+    MAXIMUM: 29 minutes, 1 second
+    MINIMUM: 10 minutes, 18 seconds
+    AVERAGE: 12 minutes, 40 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 hour, 3 minutes, 20 seconds
+-----------------------------------
+
+BSC Mainnet GOOGL / USD:
+    MAXIMUM: 23 hours, 17 minutes, 57 seconds
+    MINIMUM: 37 minutes, 31 seconds
+    AVERAGE: 5 hours, 9 minutes, 13 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 day, 1 hour, 46 minutes, 6 seconds
+-----------------------------------
+
+BSC Mainnet ICP / USD:
+    MAXIMUM: 24 minutes, 39 seconds
+    MINIMUM: 9 minutes, 30 seconds
+    AVERAGE: 10 minutes, 54 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 54 minutes, 33 seconds
+-----------------------------------
+
+BSC Mainnet JPM / USD:
+    MAXIMUM: 1 hour, 49 minutes, 36 seconds
+    MINIMUM: 12 minutes, 45 seconds
+    AVERAGE: 29 minutes, 13 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 2 hours, 26 minutes, 5 seconds
+-----------------------------------
+
+BSC Mainnet JPY / USD:
+    MAXIMUM: 10 minutes, 33 seconds
+    MINIMUM: 10 minutes, 27 seconds
+    AVERAGE: 6 minutes, 18 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 31 minutes, 30 seconds
+-----------------------------------
+
+BSC Mainnet LINA / USD:
+    MAXIMUM: 10 minutes, 30 seconds
+    MINIMUM: 2 minutes, 
+    AVERAGE: 3 minutes, 
+    TOTAL TIME PASSED FOR 5 ROUNDS: 15 minutes, 
+-----------------------------------
+
+BSC Mainnet LINK / BNB:
+    MAXIMUM: 1 hour, 41 minutes, 57 seconds
+    MINIMUM: 24 minutes, 36 seconds
+    AVERAGE: 33 minutes, 25 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 2 hours, 47 minutes, 6 seconds
+-----------------------------------
+
+BSC Mainnet LINK / USD:
+    MAXIMUM: 10 minutes, 30 seconds
+    MINIMUM: 4 minutes, 
+    AVERAGE: 4 minutes, 6 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 20 minutes, 30 seconds
+-----------------------------------
+
+BSC Mainnet LIT / USD:
+    MAXIMUM: 2 hours, 6 seconds
+    MINIMUM: 12 minutes, 30 seconds
+    AVERAGE: 37 minutes, 59 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 hours, 9 minutes, 57 seconds
+-----------------------------------
+
+BSC Mainnet LTC / BNB:
+    MAXIMUM: 1 hour, 14 minutes, 36 seconds
+    MINIMUM: 7 minutes, 
+    AVERAGE: 21 minutes, 19 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 hour, 46 minutes, 39 seconds
+-----------------------------------
+
+BSC Mainnet LTC / USD:
+    MAXIMUM: 28 minutes, 33 seconds
+    MINIMUM: 3 minutes, 3 seconds
+    AVERAGE: 8 minutes, 24 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 42 minutes, 3 seconds
+-----------------------------------
+
+BSC Mainnet MASK / USD:
+    MAXIMUM: 16 minutes, 3 seconds
+    MINIMUM: 2 minutes, 30 seconds
+    AVERAGE: 4 minutes, 42 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 23 minutes, 33 seconds
+-----------------------------------
+
+BSC Mainnet MATIC / USD:
+    MAXIMUM: 3 hours, 22 minutes, 30 seconds
+    MINIMUM: 9 minutes, 30 seconds
+    AVERAGE: 47 minutes, 
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 hours, 55 minutes, 3 seconds
+-----------------------------------
+
+BSC Mainnet MRNA / USD:
+    MAXIMUM: 39 minutes, 3 seconds
+    MINIMUM: 5 minutes, 29 seconds
+    AVERAGE: 10 minutes, 30 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 52 minutes, 32 seconds
+-----------------------------------
+
+BSC Mainnet MS / USD:
+    MAXIMUM: 22 hours, 27 minutes, 19 seconds
+    MINIMUM: 58 minutes, 2 seconds
+    AVERAGE: 5 hours, 11 minutes, 35 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 day, 1 hour, 57 minutes, 55 seconds
+-----------------------------------
+
+BSC Mainnet MSFT / USD:
+    MAXIMUM: 21 hours, 31 minutes, 12 seconds
+    MINIMUM: 6 hours, 16 minutes, 1 second
+    AVERAGE: 9 hours, 41 minutes, 6 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 2 days, 25 minutes, 33 seconds
+-----------------------------------
+
+BSC Mainnet NFLX / USD:
+    MAXIMUM: 2 hours, 22 minutes, 8 seconds
+    MINIMUM: 13 minutes, 29 seconds
+    AVERAGE: 39 minutes, 37 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 hours, 18 minutes, 8 seconds
+-----------------------------------
+
+BSC Mainnet NULS / USD:
+    MAXIMUM: 21 minutes, 33 seconds
+    MINIMUM: 2 minutes, 30 seconds
+    AVERAGE: 7 minutes, 24 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 37 minutes, 3 seconds
+-----------------------------------
+
+BSC Mainnet NVDA / USD:
+    MAXIMUM: 2 hours, 57 minutes, 38 seconds
+    MINIMUM: 1 hour, 3 seconds
+    AVERAGE: 1 hour, 5 minutes, 14 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 5 hours, 26 minutes, 12 seconds
+-----------------------------------
+
+BSC Mainnet ONT / USD:
+    MAXIMUM: 1 hour, 52 minutes, 54 seconds
+    MINIMUM: 16 minutes, 30 seconds
+    AVERAGE: 48 minutes, 11 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 4 hours, 57 seconds
+-----------------------------------
+
+BSC Mainnet PACB / USD:
+    MAXIMUM: 3 hours, 1 minute, 4 seconds
+    MINIMUM: 35 minutes, 2 seconds
+    AVERAGE: 51 minutes, 7 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 4 hours, 15 minutes, 39 seconds
+-----------------------------------
+
+BSC Mainnet PAXG / USD:
+    MAXIMUM: 22 hours, 24 minutes, 45 seconds
+    MINIMUM: 2 hours, 51 minutes, 8 seconds
+    AVERAGE: 6 hours, 7 minutes, 52 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 day, 6 hours, 39 minutes, 23 seconds
+-----------------------------------
+
+BSC Mainnet PFE / USD:
+    MAXIMUM: 18 hours, 34 minutes, 44 seconds
+    MINIMUM: 1 hour, 6 minutes, 21 seconds
+    AVERAGE: 4 hours, 42 minutes, 26 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 23 hours, 32 minutes, 12 seconds
+-----------------------------------
+
+BSC Mainnet QQQ / USD:
+    MAXIMUM: 1 day, 13 seconds
+    MINIMUM: 22 hours, 29 minutes, 4 seconds
+    AVERAGE: 14 hours, 5 minutes, 53 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 2 days, 22 hours, 29 minutes, 29 seconds
+-----------------------------------
+
+BSC Mainnet RAMP / USD:
+    MAXIMUM: 21 minutes, 
+    MINIMUM: 5 minutes, 33 seconds
+    AVERAGE: 6 minutes, 48 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 34 minutes, 3 seconds
+-----------------------------------
+
+BSC Mainnet REEF / USD:
+    MAXIMUM: 15 minutes, 27 seconds
+    MINIMUM: 5 minutes, 33 seconds
+    AVERAGE: 6 minutes, 30 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 32 minutes, 33 seconds
+-----------------------------------
+
+BSC Mainnet SOL / USD:
+    MAXIMUM: 29 minutes, 33 seconds
+    MINIMUM: 12 minutes, 30 seconds
+    AVERAGE: 11 minutes, 30 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 57 minutes, 33 seconds
+-----------------------------------
+
+BSC Mainnet SPCE / USD:
+    MAXIMUM: 12 minutes, 30 seconds
+    MINIMUM: 3 minutes, 
+    AVERAGE: 3 minutes, 42 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 18 minutes, 30 seconds
+-----------------------------------
+
+BSC Mainnet SPY / USD:
+    MAXIMUM: 1 day, 28 seconds
+    MINIMUM: 1 day, 10 seconds
+    AVERAGE: 14 hours, 24 minutes, 12 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 days, 1 minute, 2 seconds
+-----------------------------------
+
+BSC Mainnet SXP / USD:
+    MAXIMUM: 19 minutes, 30 seconds
+    MINIMUM: 3 minutes, 30 seconds
+    AVERAGE: 5 minutes, 42 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 28 minutes, 30 seconds
+-----------------------------------
+
+BSC Mainnet TRX / USD:
+    MAXIMUM: 10 minutes, 27 seconds
+    MINIMUM: 2 minutes, 30 seconds
+    AVERAGE: 3 minutes, 59 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 19 minutes, 57 seconds
+-----------------------------------
+
+BSC Mainnet TSLA / USD:
+    MAXIMUM: 3 hours, 14 minutes, 11 seconds
+    MINIMUM: 42 minutes, 29 seconds
+    AVERAGE: 1 hour, 4 minutes, 14 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 5 hours, 21 minutes, 14 seconds
+-----------------------------------
+
+BSC Mainnet TSM / USD:
+    MAXIMUM: 2 hours, 50 minutes, 34 seconds
+    MINIMUM: 19 minutes, 1 second
+    AVERAGE: 57 minutes, 51 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 4 hours, 49 minutes, 19 seconds
+-----------------------------------
+
+BSC Mainnet TWT / BNB:
+    MAXIMUM: 1 minute, 30 seconds
+    MINIMUM: 57 seconds
+    AVERAGE: 41 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 minutes, 27 seconds
+-----------------------------------
+
+BSC Mainnet Total Marketcap USD:
+    MAXIMUM: 6 hours, 20 minutes, 19 seconds
+    MINIMUM: 29 minutes, 3 seconds
+    AVERAGE: 2 hours, 23 minutes, 54 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 11 hours, 59 minutes, 31 seconds
+-----------------------------------
+
+BSC Mainnet UNH / USD:
+    MAXIMUM: 1 day, 32 seconds
+    MINIMUM: 6 minutes, 
+    AVERAGE: 5 hours, 42 minutes, 20 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 day, 4 hours, 31 minutes, 42 seconds
+-----------------------------------
+
+BSC Mainnet UNI / BNB:
+    MAXIMUM: 2 hours, 54 minutes, 36 seconds
+    MINIMUM: 12 minutes, 
+    AVERAGE: 44 minutes, 1 second
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 hours, 40 minutes, 9 seconds
+-----------------------------------
+
+BSC Mainnet UNI / USD:
+    MAXIMUM: 10 minutes, 30 seconds
+    MINIMUM: 2 minutes, 30 seconds
+    AVERAGE: 4 minutes, 18 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 21 minutes, 30 seconds
+-----------------------------------
+
+BSC Mainnet USDC / BNB:
+    MAXIMUM: 3 hours, 54 minutes, 51 seconds
+    MINIMUM: 26 minutes, 30 seconds
+    AVERAGE: 1 hour, 1 minute, 53 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 5 hours, 9 minutes, 27 seconds
+-----------------------------------
+
+BSC Mainnet USDC / USD:
+    MAXIMUM: 1 day, 18 seconds
+    MINIMUM: 20 hours, 54 minutes, 28 seconds
+    AVERAGE: 13 hours, 47 minutes, 
+    TOTAL TIME PASSED FOR 5 ROUNDS: 2 days, 20 hours, 55 minutes, 1 second
+-----------------------------------
+
+BSC Mainnet USDN / USD:
+    MAXIMUM: 15 hours, 22 minutes, 33 seconds
+    MINIMUM: 1 hour, 38 minutes, 3 seconds
+    AVERAGE: 4 hours, 52 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 20 hours, 4 minutes, 21 seconds
+-----------------------------------
+
+BSC Mainnet USDT / BNB:
+    MAXIMUM: 4 hours, 57 minutes, 24 seconds
+    MINIMUM: 36 minutes, 21 seconds
+    AVERAGE: 1 hour, 17 minutes, 22 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 6 hours, 26 minutes, 51 seconds
+-----------------------------------
+
+BSC Mainnet USDT / USD:
+    MAXIMUM: 1 day, 24 seconds
+    MINIMUM: 21 hours, 6 minutes, 43 seconds
+    AVERAGE: 13 hours, 49 minutes, 26 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 2 days, 21 hours, 7 minutes, 13 seconds
+-----------------------------------
+
+BSC Mainnet UST / USD:
+    MAXIMUM: 1 day, 30 seconds
+    MINIMUM: 1 day, 7 seconds
+    AVERAGE: 14 hours, 24 minutes, 11 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 days, 55 seconds
+-----------------------------------
+
+BSC Mainnet VAI / USD:
+    MAXIMUM: 1 hour, 31 minutes, 54 seconds
+    MINIMUM: 23 minutes, 30 seconds
+    AVERAGE: 33 minutes, 53 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 2 hours, 49 minutes, 27 seconds
+-----------------------------------
+
+BSC Mainnet WING / USD:
+    MAXIMUM: 1 hour, 47 minutes, 42 seconds
+    MINIMUM: 19 minutes, 9 seconds
+    AVERAGE: 40 minutes, 6 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 3 hours, 20 minutes, 33 seconds
+-----------------------------------
+
+BSC Mainnet WOO / USD:
+    MAXIMUM: 1 hour, 18 minutes, 21 seconds
+    MINIMUM: 9 minutes, 
+    AVERAGE: 21 minutes, 22 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 hour, 46 minutes, 51 seconds
+-----------------------------------
+
+BSC Mainnet WTI / USD:
+    MAXIMUM: 10 minutes, 36 seconds
+    MINIMUM: 10 minutes, 6 seconds
+    AVERAGE: 6 minutes, 12 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 31 minutes, 
+-----------------------------------
+
+BSC Mainnet XAG / USD:
+    MAXIMUM: 10 minutes, 30 seconds
+    MINIMUM: 10 minutes, 30 seconds
+    AVERAGE: 6 minutes, 18 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 31 minutes, 30 seconds
+-----------------------------------
+
+BSC Mainnet XAU / USD:
+    MAXIMUM: 10 minutes, 30 seconds
+    MINIMUM: 10 minutes, 12 seconds
+    AVERAGE: 6 minutes, 12 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 31 minutes, 3 seconds
+-----------------------------------
+
+BSC Mainnet XRP / BNB:
+    MAXIMUM: 5 hours, 31 minutes, 21 seconds
+    MINIMUM: 2 hours, 2 minutes, 9 seconds
+    AVERAGE: 1 hour, 58 minutes, 33 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 9 hours, 52 minutes, 47 seconds
+-----------------------------------
+
+BSC Mainnet XRP / USD:
+    MAXIMUM: 5 minutes, 30 seconds
+    MINIMUM: 4 minutes, 30 seconds
+    AVERAGE: 3 minutes, 
+    TOTAL TIME PASSED FOR 5 ROUNDS: 15 minutes, 
+-----------------------------------
+
+BSC Mainnet XTZ / BNB:
+    MAXIMUM: 1 hour, 41 minutes, 3 seconds
+    MINIMUM: 58 minutes, 33 seconds
+    AVERAGE: 51 minutes, 28 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 4 hours, 17 minutes, 21 seconds
+-----------------------------------
+
+BSC Mainnet XTZ / USD:
+    MAXIMUM: 2 hours, 26 minutes, 18 seconds
+    MINIMUM: 34 minutes, 30 seconds
+    AVERAGE: 53 minutes, 28 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 4 hours, 27 minutes, 24 seconds
+-----------------------------------
+
+BSC Mainnet XVS / BNB:
+    MAXIMUM: 24 minutes, 30 seconds
+    MINIMUM: 15 minutes, 
+    AVERAGE: 11 minutes, 12 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 56 minutes, 3 seconds
+-----------------------------------
+
+BSC Mainnet XVS / USD:
+    MAXIMUM: 26 minutes, 
+    MINIMUM: 12 minutes, 3 seconds
+    AVERAGE: 12 minutes, 10 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 1 hour, 51 seconds
+-----------------------------------
+
+BSC Mainnet YFI / BNB:
+    MAXIMUM: 2 hours, 42 minutes, 42 seconds
+    MINIMUM: 46 minutes, 3 seconds
+    AVERAGE: 1 hour, 7 minutes, 16 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 5 hours, 36 minutes, 21 seconds
+-----------------------------------
+
+BSC Mainnet YFI / USD:
+    MAXIMUM: 10 minutes, 33 seconds
+    MINIMUM: 10 minutes, 30 seconds
+    AVERAGE: 6 minutes, 18 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 31 minutes, 33 seconds
+-----------------------------------
+
+BSC Mainnet YFII / USD:
+    MAXIMUM: 22 minutes, 3 seconds
+    MINIMUM: 12 minutes, 30 seconds
+    AVERAGE: 10 minutes, 6 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 50 minutes, 33 seconds
+-----------------------------------
+
+BSC Mainnet ZIL / USD:
+    MAXIMUM: 3 minutes, 18 seconds
+    MINIMUM: 1 minute, 
+    AVERAGE: 1 minute, 27 seconds
+    TOTAL TIME PASSED FOR 5 ROUNDS: 7 minutes, 18 seconds
+-----------------------------------
+
+Analysis completed.
+-----------------------------------
